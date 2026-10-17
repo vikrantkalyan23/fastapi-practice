@@ -1,0 +1,7 @@
+[project]
+name = "5-request-and-response-model"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard]>=0.143.3",
+]
